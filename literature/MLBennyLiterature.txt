@@ -1,0 +1,3 @@
+Learning with kernels,  Schölkopf, Bernhard_Smola, Alexander J
+Math for Machine Learning
+Rasmussen, Willians - Gaussian Processes for ML
